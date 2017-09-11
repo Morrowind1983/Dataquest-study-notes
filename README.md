@@ -13,7 +13,7 @@ It is recommended to open .ipynb files in [Nbviewer](http://nbviewer.jupyter.org
 - [Working With APIs](http://nbviewer.jupyter.org/github/Morrowind1983/Dataquest-study-notes/blob/master/04%20Working%20with%20Data%20Sources/01%20APIs%20and%20Web%20Scraping/Working%20With%20APIs.ipynb)
 > Learn to work with a simple API by finding the position of the International Space Station.
 
-- Intermediate APIs
+- [Intermediate APIs](http://nbviewer.jupyter.org/github/Morrowind1983/Dataquest-study-notes/blob/master/04%20Working%20with%20Data%20Sources/01%20APIs%20and%20Web%20Scraping/Intermediate%20APIs.ipynb)
 > Learn to work with a more complex API that involves authentication and POST requests.
 
 - Challenge: Working With The Reddit API
