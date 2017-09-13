@@ -19,7 +19,7 @@ It is recommended to open .ipynb files in [Nbviewer](http://nbviewer.jupyter.org
 - Challenge: Working With The Reddit API
 > Practice making requests to an API that requires authentication.
 
-- Web Scraping
+- [Web Scraping](http://nbviewer.jupyter.org/github/Morrowind1983/Dataquest-study-notes/blob/master/04%20Working%20with%20Data%20Sources/01%20APIs%20and%20Web%20Scraping/Web%20Scraping.ipynb)
 > Learn how to extract data from Web pages.
 
 
