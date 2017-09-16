@@ -24,19 +24,19 @@ It is recommended to open .ipynb files in [Nbviewer](http://nbviewer.jupyter.org
 
 ### SQL and Databases: Beginner
 
-- [Introduction To SQL]()
+- [Introduction To SQL](http://nbviewer.jupyter.org/github/Morrowind1983/Dataquest-study-notes/blob/master/04%20Working%20with%20Data%20Sources/02%20SQL%20and%20Databases%20Beginner/%20Introduction%20To%20SQL.ipynb)
 > Learn the basics of databases and how to query them in SQL.
 
-- [Logical Operators And Ordering]()
+- [Logical Operators And Ordering](http://nbviewer.jupyter.org/github/Morrowind1983/Dataquest-study-notes/blob/master/04%20Working%20with%20Data%20Sources/02%20SQL%20and%20Databases%20Beginner/Logical%20Operators%20And%20Ordering.ipynb)
 > Learn how to express complex filtering criteria and order results.
 
-- Challenge: Practice Expressing Complex SQL Queries
+- [Challenge: Practice Expressing Complex SQL Queries](http://nbviewer.jupyter.org/github/Morrowind1983/Dataquest-study-notes/blob/master/04%20Working%20with%20Data%20Sources/02%20SQL%20and%20Databases%20Beginner/%20Challenge%20Practice%20Expressing%20Complex%20SQL%20Queries.ipynb)
 > Practice introductory SQL concepts by writing queries from scratch.
 
-- Querying SQLite From Python
+- [Querying SQLite From Python](http://nbviewer.jupyter.org/github/Morrowind1983/Dataquest-study-notes/blob/master/04%20Working%20with%20Data%20Sources/02%20SQL%20and%20Databases%20Beginner/Querying%20SQLite%20From%20Python.ipynb)
 > Learn how to query a SQLite database from Python.
 
-- Guided Project: Working With A SQLite Database
+- [Guided Project: Working With A SQLite Database](http://nbviewer.jupyter.org/github/Morrowind1983/Dataquest-study-notes/blob/master/04%20Working%20with%20Data%20Sources/02%20SQL%20and%20Databases%20Beginner/Guided%20Project%20Working%20With%20a%20SQLite%20Database.ipynb)
 > Select country data with SQL and perform analysis on it.
 
 - SQL Summary Statistics
