@@ -22,4 +22,30 @@ It is recommended to open .ipynb files in [Nbviewer](http://nbviewer.jupyter.org
 - [Web Scraping](http://nbviewer.jupyter.org/github/Morrowind1983/Dataquest-study-notes/blob/master/04%20Working%20with%20Data%20Sources/01%20APIs%20and%20Web%20Scraping/Web%20Scraping.ipynb)
 > Learn how to extract data from Web pages.
 
+### SQL and Databases: Beginner
+
+- [Introduction To SQL]()
+> Learn the basics of databases and how to query them in SQL.
+
+- [Logical Operators And Ordering]()
+> Learn how to express complex filtering criteria and order results.
+
+- Challenge: Practice Expressing Complex SQL Queries
+> Practice introductory SQL concepts by writing queries from scratch.
+
+- Querying SQLite From Python
+> Learn how to query a SQLite database from Python.
+
+- Guided Project: Working With A SQLite Database
+> Select country data with SQL and perform analysis on it.
+
+- SQL Summary Statistics
+> Learn how to calculate summary statistics with SQL.
+
+- Group Summary Statistics
+> Learn how to compute statistics across groups with SQL.
+
+- Challenge: Data Exploration
+> Practice calculating summary statistics in SQL to better understand population data.
+
 
