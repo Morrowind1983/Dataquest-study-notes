@@ -48,4 +48,28 @@ It is recommended to open .ipynb files in [Nbviewer](http://nbviewer.jupyter.org
 - [Challenge: Data Exploration](http://nbviewer.jupyter.org/github/Morrowind1983/Dataquest-study-notes/blob/master/04%20Working%20with%20Data%20Sources/02%20SQL%20and%20Databases%20Beginner/Challenge%20Data%20Exploration.ipynb)
 > Practice calculating summary statistics in SQL to better understand population data.
 
+### SQL and Databases: Intermediate
 
+- [Modifying Data](http://nbviewer.jupyter.org/github/Morrowind1983/Dataquest-study-notes/blob/master/04%20Working%20with%20Data%20Sources/03%20SQL%20and%20Databases%20Intermediate/Modifying%20Data.ipynb)
+> Learn about the insert, update, and delete statements while working with country demographic data.
+
+- [Table Schemas]()
+> Learn how to create and update SQL table schemas.
+
+- [Database Normalization And Relations]()
+> Learn how to normalize data and about relational database design.
+
+- [Guided Project: Preparing Data For SQLite]()
+> Learn how to prepare CSV datasets and read them into SQLite.
+
+- [Guided Project: Creating Relations In SQLite]()
+> Learn how to normalize data using relations in SQLite.
+
+- [Using PostgreSQL]()
+> Learn the basics of PostgreSQL, and how to use it from Python.
+
+- [Command Line PostgreSQL]()
+> Learn how to work with PostgreSQL from the command line.
+
+- [Project: PostgreSQL Installation]()
+> Learn how to install PostgreSQL and the Psycopg2 library.
