@@ -45,7 +45,7 @@ It is recommended to open .ipynb files in [Nbviewer](http://nbviewer.jupyter.org
 - [Group Summary Statistics](http://nbviewer.jupyter.org/github/Morrowind1983/Dataquest-study-notes/blob/master/04%20Working%20with%20Data%20Sources/02%20SQL%20and%20Databases%20Beginner/Group%20Summary%20Statistics.ipynb)
 > Learn how to compute statistics across groups with SQL.
 
-- Challenge: Data Exploration
+- [Challenge: Data Exploration](http://nbviewer.jupyter.org/github/Morrowind1983/Dataquest-study-notes/blob/master/04%20Working%20with%20Data%20Sources/02%20SQL%20and%20Databases%20Beginner/Challenge%20Data%20Exploration.ipynb)
 > Practice calculating summary statistics in SQL to better understand population data.
 
 
