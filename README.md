@@ -39,10 +39,10 @@ It is recommended to open .ipynb files in [Nbviewer](http://nbviewer.jupyter.org
 - [Guided Project: Working With A SQLite Database](http://nbviewer.jupyter.org/github/Morrowind1983/Dataquest-study-notes/blob/master/04%20Working%20with%20Data%20Sources/02%20SQL%20and%20Databases%20Beginner/Guided%20Project%20Working%20With%20a%20SQLite%20Database.ipynb)
 > Select country data with SQL and perform analysis on it.
 
-- SQL Summary Statistics
+- [SQL Summary Statistics](http://nbviewer.jupyter.org/github/Morrowind1983/Dataquest-study-notes/blob/master/04%20Working%20with%20Data%20Sources/02%20SQL%20and%20Databases%20Beginner/SQL%20Summary%20Statistics.ipynb)
 > Learn how to calculate summary statistics with SQL.
 
-- Group Summary Statistics
+- [Group Summary Statistics](http://nbviewer.jupyter.org/github/Morrowind1983/Dataquest-study-notes/blob/master/04%20Working%20with%20Data%20Sources/02%20SQL%20and%20Databases%20Beginner/Group%20Summary%20Statistics.ipynb)
 > Learn how to compute statistics across groups with SQL.
 
 - Challenge: Data Exploration
