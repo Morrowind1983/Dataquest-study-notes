@@ -53,7 +53,7 @@ It is recommended to open .ipynb files in [Nbviewer](http://nbviewer.jupyter.org
 - [Modifying Data](http://nbviewer.jupyter.org/github/Morrowind1983/Dataquest-study-notes/blob/master/04%20Working%20with%20Data%20Sources/03%20SQL%20and%20Databases%20Intermediate/Modifying%20Data.ipynb)
 > Learn about the insert, update, and delete statements while working with country demographic data.
 
-- [Table Schemas]()
+- [Table Schemas](http://nbviewer.jupyter.org/github/Morrowind1983/Dataquest-study-notes/blob/master/04%20Working%20with%20Data%20Sources/03%20SQL%20and%20Databases%20Intermediate/Table%20Schemas.ipynb)
 > Learn how to create and update SQL table schemas.
 
 - [Database Normalization And Relations]()
