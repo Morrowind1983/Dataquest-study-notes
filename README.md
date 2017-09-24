@@ -56,10 +56,10 @@ It is recommended to open .ipynb files in [Nbviewer](http://nbviewer.jupyter.org
 - [Table Schemas](http://nbviewer.jupyter.org/github/Morrowind1983/Dataquest-study-notes/blob/master/04%20Working%20with%20Data%20Sources/03%20SQL%20and%20Databases%20Intermediate/Table%20Schemas.ipynb)
 > Learn how to create and update SQL table schemas.
 
-- [Database Normalization And Relations]()
+- [Database Normalization And Relations](http://nbviewer.jupyter.org/github/Morrowind1983/Dataquest-study-notes/blob/master/04%20Working%20with%20Data%20Sources/03%20SQL%20and%20Databases%20Intermediate/Database%20Normalization%20and%20Relations.ipynb)
 > Learn how to normalize data and about relational database design.
 
-- [Guided Project: Preparing Data For SQLite]()
+- [Guided Project: Preparing Data For SQLite](http://nbviewer.jupyter.org/github/Morrowind1983/Dataquest-study-notes/blob/master/04%20Working%20with%20Data%20Sources/03%20SQL%20and%20Databases%20Intermediate/Guided%20Project%20Preparing%20data%20for%20SQLite.ipynb)
 > Learn how to prepare CSV datasets and read them into SQLite.
 
 - [Guided Project: Creating Relations In SQLite]()
