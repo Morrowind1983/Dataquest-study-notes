@@ -36,7 +36,7 @@ It is recommended to open .ipynb files in [Nbviewer](http://nbviewer.jupyter.org
 - [Querying SQLite From Python](http://nbviewer.jupyter.org/github/Morrowind1983/Dataquest-study-notes/blob/master/04%20Working%20with%20Data%20Sources/02%20SQL%20and%20Databases%20Beginner/Querying%20SQLite%20From%20Python.ipynb)
 > Learn how to query a SQLite database from Python.
 
-- [Guided Project: Working With A SQLite Database](http://nbviewer.jupyter.org/github/Morrowind1983/Dataquest-study-notes/blob/master/04%20Working%20with%20Data%20Sources/02%20SQL%20and%20Databases%20Beginner/Guided%20Project%20Working%20With%20a%20SQLite%20Database.ipynb)
+- [Guided Project: Working With A SQLite Database](http://nbviewer.jupyter.org/github/Morrowind1983/Dataquest-study-notes/blob/master/04%20Working%20with%20Data%20Sources/02%20SQL%20and%20Databases%20Beginner/Guided%20Project%20Working%20With%20a%20SQLite%20Database/Guided%20Project%20Working%20With%20a%20SQLite%20Database.ipynb)
 > Select country data with SQL and perform analysis on it.
 
 - [SQL Summary Statistics](http://nbviewer.jupyter.org/github/Morrowind1983/Dataquest-study-notes/blob/master/04%20Working%20with%20Data%20Sources/02%20SQL%20and%20Databases%20Beginner/SQL%20Summary%20Statistics.ipynb)
@@ -59,7 +59,7 @@ It is recommended to open .ipynb files in [Nbviewer](http://nbviewer.jupyter.org
 - [Database Normalization And Relations](http://nbviewer.jupyter.org/github/Morrowind1983/Dataquest-study-notes/blob/master/04%20Working%20with%20Data%20Sources/03%20SQL%20and%20Databases%20Intermediate/Database%20Normalization%20and%20Relations.ipynb)
 > Learn how to normalize data and about relational database design.
 
-- [Guided Project: Preparing Data For SQLite](http://nbviewer.jupyter.org/github/Morrowind1983/Dataquest-study-notes/blob/master/04%20Working%20with%20Data%20Sources/03%20SQL%20and%20Databases%20Intermediate/Guided%20Project%20Preparing%20data%20for%20SQLite.ipynb)
+- [Guided Project: Preparing Data For SQLite](http://nbviewer.jupyter.org/github/Morrowind1983/Dataquest-study-notes/blob/master/04%20Working%20with%20Data%20Sources/03%20SQL%20and%20Databases%20Intermediate/Guided%20Project%20Preparing%20data%20for%20SQLite/Guided%20Project%20Preparing%20data%20for%20SQLite.ipynb)
 > Learn how to prepare CSV datasets and read them into SQLite.
 
 - [Guided Project: Creating Relations In SQLite]()
