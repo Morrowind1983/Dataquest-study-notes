@@ -62,7 +62,7 @@ It is recommended to open .ipynb files in [Nbviewer](http://nbviewer.jupyter.org
 - [Guided Project: Preparing Data For SQLite](http://nbviewer.jupyter.org/github/Morrowind1983/Dataquest-study-notes/blob/master/04%20Working%20with%20Data%20Sources/03%20SQL%20and%20Databases%20Intermediate/Guided%20Project%20Preparing%20data%20for%20SQLite/Guided%20Project%20Preparing%20data%20for%20SQLite.ipynb)
 > Learn how to prepare CSV datasets and read them into SQLite.
 
-- [Guided Project: Creating Relations In SQLite]()
+- [Guided Project: Creating Relations In SQLite](http://nbviewer.jupyter.org/github/Morrowind1983/Dataquest-study-notes/blob/master/04%20Working%20with%20Data%20Sources/03%20SQL%20and%20Databases%20Intermediate/Guided%20Project%20Creating%20relations%20in%20SQLite/Guided%20Project%20Creating%20relations%20in%20SQLite.ipynb)
 > Learn how to normalize data using relations in SQLite.
 
 - [Using PostgreSQL]()
