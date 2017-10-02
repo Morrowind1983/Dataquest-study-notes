@@ -65,11 +65,11 @@ It is recommended to open .ipynb files in [Nbviewer](http://nbviewer.jupyter.org
 - [Guided Project: Creating Relations In SQLite](http://nbviewer.jupyter.org/github/Morrowind1983/Dataquest-study-notes/blob/master/04%20Working%20with%20Data%20Sources/03%20SQL%20and%20Databases%20Intermediate/Guided%20Project%20Creating%20relations%20in%20SQLite/Guided%20Project%20Creating%20relations%20in%20SQLite.ipynb)
 > Learn how to normalize data using relations in SQLite.
 
-- [Using PostgreSQL]()
+- [Using PostgreSQL](http://nbviewer.jupyter.org/github/Morrowind1983/Dataquest-study-notes/blob/master/04%20Working%20with%20Data%20Sources/03%20SQL%20and%20Databases%20Intermediate/Using%20PostgreSQL.ipynb)
 > Learn the basics of PostgreSQL, and how to use it from Python.
 
 - [Command Line PostgreSQL]()
 > Learn how to work with PostgreSQL from the command line.
 
-- [Project: PostgreSQL Installation]()
+- [Project: PostgreSQL Installation](http://nbviewer.jupyter.org/github/Morrowind1983/Dataquest-study-notes/blob/master/04%20Working%20with%20Data%20Sources/03%20SQL%20and%20Databases%20Intermediate/Project%20PostgreSQL%20Installation.ipynb)
 > Learn how to install PostgreSQL and the Psycopg2 library.
