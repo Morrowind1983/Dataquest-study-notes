@@ -68,7 +68,7 @@ It is recommended to open .ipynb files in [Nbviewer](http://nbviewer.jupyter.org
 - [Using PostgreSQL](http://nbviewer.jupyter.org/github/Morrowind1983/Dataquest-study-notes/blob/master/04%20Working%20with%20Data%20Sources/03%20SQL%20and%20Databases%20Intermediate/Using%20PostgreSQL.ipynb)
 > Learn the basics of PostgreSQL, and how to use it from Python.
 
-- [Command Line PostgreSQL]()
+- [Command Line PostgreSQL](http://nbviewer.jupyter.org/github/Morrowind1983/Dataquest-study-notes/blob/master/04%20Working%20with%20Data%20Sources/03%20SQL%20and%20Databases%20Intermediate/Command%20line%20PostgreSQL.ipynb)
 > Learn how to work with PostgreSQL from the command line.
 
 - [Project: PostgreSQL Installation](http://nbviewer.jupyter.org/github/Morrowind1983/Dataquest-study-notes/blob/master/04%20Working%20with%20Data%20Sources/03%20SQL%20and%20Databases%20Intermediate/Project%20PostgreSQL%20Installation.ipynb)
