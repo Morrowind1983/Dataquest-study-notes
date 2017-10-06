@@ -73,3 +73,25 @@ It is recommended to open .ipynb files in [Nbviewer](http://nbviewer.jupyter.org
 
 - [Project: PostgreSQL Installation](http://nbviewer.jupyter.org/github/Morrowind1983/Dataquest-study-notes/blob/master/04%20Working%20with%20Data%20Sources/03%20SQL%20and%20Databases%20Intermediate/Project%20PostgreSQL%20Installation.ipynb)
 > Learn how to install PostgreSQL and the Psycopg2 library.
+
+## Part 4: Probability and Statistics
+
+### Probability and Statistics in Python: Beginner
+
+- [Introduction To Statistics](http://nbviewer.jupyter.org/github/Morrowind1983/Dataquest-study-notes/blob/master/05%20Probability%20and%20Statistics/01%20Probability%20and%20Statistics%20in%20Python%20Beginner/Introduction%20To%20Statistics.ipynb)
+> Learn the basics of statistics while exploring survival data from the Titanic. Make histograms and learn about measures of central tendency.
+
+- [Standard Deviation And Correlation]()
+> Learn about standard deviation and correlation using NBA data.
+
+- [Challenge: Descriptive Statistics]()
+> Practice using descriptive statistics techniques to explore movie review data.
+
+- [Linear Regression]()
+> Learn about linear regression while predicting how experts would rate white wines.
+
+- [Distributions And Sampling]()
+> Learn about distributions and sampling while analyzing data from the US Census.
+
+- [Guided Project: Analyzing Movie Reviews]()
+> Learn how to perform statistical analysis on movie review data.
