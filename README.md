@@ -84,7 +84,7 @@ It is recommended to open .ipynb files in [Nbviewer](http://nbviewer.jupyter.org
 - [Standard Deviation And Correlation](http://nbviewer.jupyter.org/github/Morrowind1983/Dataquest-study-notes/blob/master/05%20Probability%20and%20Statistics/01%20Probability%20and%20Statistics%20in%20Python%20Beginner/Standard%20Deviation%20and%20Correlation.ipynb)
 > Learn about standard deviation and correlation using NBA data.
 
-- [Challenge: Descriptive Statistics]()
+- [Challenge: Descriptive Statistics](http://nbviewer.jupyter.org/github/Morrowind1983/Dataquest-study-notes/blob/master/05%20Probability%20and%20Statistics/01%20Probability%20and%20Statistics%20in%20Python%20Beginner/Challenge%20Descriptive%20Statistics.ipynb)
 > Practice using descriptive statistics techniques to explore movie review data.
 
 - [Linear Regression]()
