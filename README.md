@@ -81,7 +81,7 @@ It is recommended to open .ipynb files in [Nbviewer](http://nbviewer.jupyter.org
 - [Introduction To Statistics](http://nbviewer.jupyter.org/github/Morrowind1983/Dataquest-study-notes/blob/master/05%20Probability%20and%20Statistics/01%20Probability%20and%20Statistics%20in%20Python%20Beginner/Introduction%20To%20Statistics.ipynb)
 > Learn the basics of statistics while exploring survival data from the Titanic. Make histograms and learn about measures of central tendency.
 
-- [Standard Deviation And Correlation]()
+- [Standard Deviation And Correlation](http://nbviewer.jupyter.org/github/Morrowind1983/Dataquest-study-notes/blob/master/05%20Probability%20and%20Statistics/01%20Probability%20and%20Statistics%20in%20Python%20Beginner/Standard%20Deviation%20and%20Correlation.ipynb)
 > Learn about standard deviation and correlation using NBA data.
 
 - [Challenge: Descriptive Statistics]()
