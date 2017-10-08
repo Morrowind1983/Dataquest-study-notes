@@ -93,5 +93,5 @@ It is recommended to open .ipynb files in [Nbviewer](http://nbviewer.jupyter.org
 - [Distributions And Sampling](http://nbviewer.jupyter.org/github/Morrowind1983/Dataquest-study-notes/blob/master/05%20Probability%20and%20Statistics/01%20Probability%20and%20Statistics%20in%20Python%20Beginner/Distributions%20and%20sampling.ipynb)
 > Learn about distributions and sampling while analyzing data from the US Census.
 
-- [Guided Project: Analyzing Movie Reviews]()
+- [Guided Project: Analyzing Movie Reviews](http://nbviewer.jupyter.org/github/Morrowind1983/Dataquest-study-notes/blob/master/05%20Probability%20and%20Statistics/01%20Probability%20and%20Statistics%20in%20Python%20Beginner/Guided%20Project%20Analyzing%20Movie%20Reviews/Guided%20Project%20Analyzing%20Movie%20Reviews.ipynb)
 > Learn how to perform statistical analysis on movie review data.
