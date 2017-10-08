@@ -90,7 +90,7 @@ It is recommended to open .ipynb files in [Nbviewer](http://nbviewer.jupyter.org
 - [Linear Regression](http://nbviewer.jupyter.org/github/Morrowind1983/Dataquest-study-notes/blob/master/05%20Probability%20and%20Statistics/01%20Probability%20and%20Statistics%20in%20Python%20Beginner/Linear%20Regression.ipynb)
 > Learn about linear regression while predicting how experts would rate white wines.
 
-- [Distributions And Sampling]()
+- [Distributions And Sampling](http://nbviewer.jupyter.org/github/Morrowind1983/Dataquest-study-notes/blob/master/05%20Probability%20and%20Statistics/01%20Probability%20and%20Statistics%20in%20Python%20Beginner/Distributions%20and%20sampling.ipynb)
 > Learn about distributions and sampling while analyzing data from the US Census.
 
 - [Guided Project: Analyzing Movie Reviews]()
